@@ -1,1 +1,1 @@
-metallica = ['het','rob']
+metallica = ['het','rob','ham']
